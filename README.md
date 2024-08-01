@@ -6,6 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawaraathapaththu&label=Profile%20views&color=0e75b6&style=flat" alt="pawaraathapaththu" /> </p>
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+
 - 🌱 I’m currently learning: java/php/React
 
 - 💬 Ask me about: C#/c/python/c++
